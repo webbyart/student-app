@@ -1,0 +1,8 @@
+{
+  "name": "Scan Student Management System",
+  "description": "A React application for managing student information and attendance, with AI-powered summaries.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
